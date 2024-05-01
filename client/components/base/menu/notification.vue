@@ -1,0 +1,13 @@
+<template>
+  <v-btn
+    class="text-none"
+    stacked
+  >
+    <v-badge
+      :content="66"
+      color="error"
+    >
+      <v-icon>mdi-bell-outline</v-icon>
+    </v-badge>
+  </v-btn>
+</template>

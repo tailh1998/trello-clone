@@ -1,0 +1,7 @@
+camelcase
+arrowParens
+tailh
+tsbuildinfo
+corejs
+tlds
+openapi
